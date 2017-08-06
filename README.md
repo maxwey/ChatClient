@@ -16,7 +16,7 @@ Lastly, I built this as a place to learn and explore something new. If you have 
 
 ## How to use the client
 
-The client can be run from the command line (execute `java Client` after compilation the source files). It does not take any launch arguments.
+The client can be run from the command line (execute `java Client` after compilation the source files). It does not take any launch arguments. You can also download and run the compiled jar file version: https://github.com/maxwey/ChatClient/releases
 
 The UI is self explanatory.
 
